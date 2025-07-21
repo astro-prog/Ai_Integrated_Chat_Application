@@ -1,7 +1,9 @@
-# Ai_Integrated_Chat_Application
 # AI Chat Application
 
 A premium, full-stack chatting application with AI integration featuring a modern, high-end UI/UX design. Built with React, TypeScript, and Tailwind CSS for a production-ready messaging experience.
+
+## 🚀 Deployment
+[view website](https://aiintegratedchatapplication.netlify.app/)
 
 ![AI Chat Application](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
@@ -190,23 +192,7 @@ Key responsive features:
 - Optimized touch targets for mobile
 - Scalable typography and spacing
 
-## 🚀 Deployment
 
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
-
-### Deploy to Netlify, Vercel, or similar platforms
-
-The built files in the `dist` folder can be deployed to any static hosting service.
 
 ## 🛠 Development
 
