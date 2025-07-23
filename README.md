@@ -5,7 +5,6 @@ A premium, full-stack chatting application with AI integration featuring a moder
 ## 🚀 Deployment
 [view website](https://aiintegratedchatapplication.netlify.app/)
 
-![AI Chat Application](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
 ## ✨ Features
 
